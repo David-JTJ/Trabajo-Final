@@ -1,0 +1,510 @@
+;GeneBrev;Entry;Entry name;Protein;Gene;Organism;Status;GO-Biological process
+0;TRNAS-GGA;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+1;LOC102173449;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+2;LOC102169333;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+3;LOC108636757;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+4;LOC102187712;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+5;VGLL3;A0A452FI87;A0A452FI87_CAPHI;Vestigial like family member 3;VGLL3;Capra hircus (Goat);Unreviewed;heart development
+6;CHMP2B;A0A452EJ84;A0A452EJ84_CAPHI;Charged multivesicular body protein 2B;CHMP2B;Capra hircus (Goat);Unreviewed;heart development
+7;POU1F1;B8YMT5;B8YMT5_CAPHI;POU domain protein;POU1F1;Capra hircus (Goat);Unreviewed;heart development
+8;HTR1F;A0A452DP04;A0A452DP04_CAPHI;5-hydroxytryptamine receptor 1F;HTR1F;Capra hircus (Goat);Unreviewed;heart development
+9;LOC102188976;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+10;CGGBP1;A0A452EH80;A0A452EH80_CAPHI;CGG triplet repeat binding protein 1;CGGBP1;Capra hircus (Goat);Unreviewed;heart development
+11;ZNF654;A0A452EMC5;A0A452EMC5_CAPHI;Zinc finger protein 654;ZNF654;Capra hircus (Goat);Unreviewed;heart development
+12;C1H3orf38;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+13;LOC102190548;A0A452G5A1;A0A452G5A1_CAPHI;Sulfide:quinone oxidoreductase, mitochondrial pseu;LOC102190548;Capra hircus (Goat);Unreviewed;heart development
+14;SLC12A8;A0A452FPS5;A0A452FPS5_CAPHI;Solute carrier family 12 member 8;SLC12A8;Capra hircus (Goat);Unreviewed;heart development
+15;LOC106502043;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+16;ZNF148;A0A452F389;A0A452F389_CAPHI;Zinc finger protein 148;ZNF148;Capra hircus (Goat);Unreviewed;heart development
+17;SNX4;A0A452EGT9;A0A452EGT9_CAPHI;Sorting nexin 4;SNX4;Capra hircus (Goat);Unreviewed;heart development
+18;OSBPL11;A0A452G516;A0A452G516_CAPHI;Oxysterol-binding protein;OSBPL11;Capra hircus (Goat);Unreviewed;heart development
+19;LMLN;A0A452F0J2;A0A452F0J2_CAPHI;Leishmanolysin-like peptidase;LMLN;Capra hircus (Goat);Unreviewed;heart development
+20;RPL35A;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+21;IQCG;A0A452E679;A0A452E679_CAPHI;Dynein regulatory complex protein 9;IQCG;Capra hircus (Goat);Unreviewed;heart development
+22;LRCH3;A0A452G381;A0A452G381_CAPHI;Leucine rich repeats and calponin homology domain ;LRCH3;Capra hircus (Goat);Unreviewed;heart development
+23;FYTTD1;A0A452FHL6;A0A452FHL6_CAPHI;Forty-two-three domain-containing protein 1;FYTTD1;Capra hircus (Goat);Unreviewed;heart development
+24;RUBCN;A0A452EXQ2;A0A452EXQ2_CAPHI;Rubicon autophagy regulator;RUBCN;Capra hircus (Goat);Unreviewed;heart development
+25;MUC20;A0A452FA09;A0A452FA09_CAPHI;Mucin 20, cell surface associated;MUC20;Capra hircus (Goat);Unreviewed;heart development
+26;MUC4;A0A452EHY5;A0A452EHY5_CAPHI;Mucin 4, cell surface associated;MUC4;Capra hircus (Goat);Unreviewed;heart development
+27;TNK2;A0A452EC95;A0A452EC95_CAPHI;Non-specific protein-tyrosine kinase;TNK2;Capra hircus (Goat);Unreviewed;heart development
+28;TFRC;A0A452GAH5;A0A452GAH5_CAPHI;Transferrin receptor protein 1;TFRC;Capra hircus (Goat);Unreviewed;heart development
+29;LOC106503629;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+30;C2H1orf64;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+31;CLCNKA;A0A452G531;A0A452G531_CAPHI;Chloride channel protein;CLCNKA;Capra hircus (Goat);Unreviewed;heart development
+32;HSPB7;A0A452G662;A0A452G662_CAPHI;Heat shock protein family B (small) member 7;HSPB7;Capra hircus (Goat);Unreviewed;heart development
+33;FAM131C;A0A452ELN4;A0A452ELN4_CAPHI;Family with sequence similarity 131 member C;FAM131C;Capra hircus (Goat);Unreviewed;heart development
+34;LOC102181451;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+35;EPHA2;A0A452ERX4;A0A452ERX4_CAPHI;Receptor protein-tyrosine kinase;EPHA2;Capra hircus (Goat);Unreviewed;heart development
+36;LOC108637009;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+37;ARHGEF19;A0A452E148;A0A452E148_CAPHI;Rho guanine nucleotide exchange factor 19;ARHGEF19;Capra hircus (Goat);Unreviewed;heart development
+38;RSG1;A0A452DRN3;A0A452DRN3_CAPHI;Ciliogenesis and planar polarity effector 2;CPLANE2;Capra hircus (Goat);Unreviewed;heart development
+39;FBXO42;A0A452EXA8;A0A452EXA8_CAPHI;F-box protein 42;FBXO42;Capra hircus (Goat);Unreviewed;heart development
+40;LOC102179430;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+41;SZRD1;A0A452EFP7;A0A452EFP7_CAPHI;SUZ domain-containing protein 1;SZRD1;Capra hircus (Goat);Unreviewed;heart development
+42;SPATA21;A0A452FZT0;A0A452FZT0_CAPHI;Spermatogenesis associated 21;SPATA21;Capra hircus (Goat);Unreviewed;heart development
+43;NECAP2;A0A452FY48;A0A452FY48_CAPHI;NECAP endocytosis associated 2;NECAP2;Capra hircus (Goat);Unreviewed;heart development
+44;CROCC;A0A452G2Y3;A0A452G2Y3_CAPHI;Ciliary rootlet coiled-coil, rootletin;CROCC;Capra hircus (Goat);Unreviewed;heart development
+45;LOC102183471;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+46;SDHB;A0A452EG76;A0A452EG76_CAPHI;Succinate dehydrogenase [ubiquinone] iron-sulfur s;SDHB;Capra hircus (Goat);Unreviewed;heart development
+47;PADI2;A0A452F1S1;A0A452F1S1_CAPHI;Protein-arginine deiminase;PADI2;Capra hircus (Goat);Unreviewed;heart development
+48;LOC108637078;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+49;PADI1;A0A452F6C0;A0A452F6C0_CAPHI;Protein-arginine deiminase;PADI1;Capra hircus (Goat);Unreviewed;heart development
+50;PADI3;A0A452E2U2;A0A452E2U2_CAPHI;Protein-arginine deiminase;PADI3;Capra hircus (Goat);Unreviewed;heart development
+51;PADI4;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+52;LOC102174173;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+53;PADI6;A0A452EN92;A0A452EN92_CAPHI;Protein-arginine deiminase;PADI6;Capra hircus (Goat);Unreviewed;heart development
+54;RCC2;A0A452G1K4;A0A452G1K4_CAPHI;Regulator of chromosome condensation 2;RCC2;Capra hircus (Goat);Unreviewed;heart development
+55;LOC108638510;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+56;LOC108637086;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+57;LOC102173345;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+58;LOC106503868;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+59;LOC108633797;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+60;LOC106503869;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+61;LOC106503865;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+62;LOC108633799;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+63;LOC106503913;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+64;LOC108633801;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+65;LOC108633800;A0A452DMI4;A0A452DMI4_CAPHI;Small proline-rich protein 2E-like;LOC108633800;Capra hircus (Goat);Unreviewed;heart development
+66;LOC102182746;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+67;LOC108633805;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+68;LOC108633806;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+69;LOC108633807;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+70;ING5;A0A452G205;A0A452G205_CAPHI;Inhibitor of growth protein;ING4;Capra hircus (Goat);Unreviewed;heart development
+71;DTYMK;A0A452FX99;A0A452FX99_CAPHI;dTMP kinase;DTYMK;Capra hircus (Goat);Unreviewed;heart development
+72;ATG4B;A0A452F3A1;A0A452F3A1_CAPHI;Cysteine protease;ATG4B;Capra hircus (Goat);Unreviewed;heart development
+73;THAP4;A0A452FEJ6;A0A452FEJ6_CAPHI;THAP domain containing 4;THAP4;Capra hircus (Goat);Unreviewed;heart development
+74;LOC106502005;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+75;BOK;A0A452G7C4;A0A452G7C4_CAPHI;BCL2 family apoptosis regulator BOK;BOK;Capra hircus (Goat);Unreviewed;heart development
+76;STK25;A0A452FKF2;A0A452FKF2_CAPHI;Serine/threonine kinase 25;STK25;Capra hircus (Goat);Unreviewed;heart development
+77;FARP2;A0A452GB91;A0A452GB91_CAPHI;FERM, ARH/RhoGEF and pleckstrin domain protein 2;FARP2;Capra hircus (Goat);Unreviewed;heart development
+78;SEPTIN2;A0A452G8J5;A0A452G8J5_CAPHI;Septin;SEPTIN2;Capra hircus (Goat);Unreviewed;heart development
+79;HDLBP;A0A452FND3;A0A452FND3_CAPHI;High density lipoprotein binding protein;HDLBP;Capra hircus (Goat);Unreviewed;heart development
+80;ANO7;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+81;PPP1R7;A0A452EBZ0;A0A452EBZ0_CAPHI;Protein phosphatase 1 regulatory subunit 7;PPP1R7;Capra hircus (Goat);Unreviewed;heart development
+82;PASK;A0A452DTW1;A0A452DTW1_CAPHI;PAS domain containing serine/threonine kinase;PASK;Capra hircus (Goat);Unreviewed;heart development
+83;MTERF4;A0A452FL45;A0A452FL45_CAPHI;Mitochondrial transcription termination factor 4;MTERF4;Capra hircus (Goat);Unreviewed;heart development
+84;SNED1;A0A452FI39;A0A452FI39_CAPHI;Sushi, nidogen and EGF like domains 1;SNED1;Capra hircus (Goat);Unreviewed;heart development
+85;CROCC2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+86;LOC108633853;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+87;RNF32;A0A452FAS8;A0A452FAS8_CAPHI;Ring finger protein 32;RNF32;Capra hircus (Goat);Unreviewed;heart development
+88;LOC106502075;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+89;SHH;A0A452FUF0;A0A452FUF0_CAPHI;Hedgehog protein;SHH;Capra hircus (Goat);Unreviewed;heart development
+90;RBM33;A0A452ED38;A0A452ED38_CAPHI;RNA binding motif protein 33;RBM33;Capra hircus (Goat);Unreviewed;heart development
+91;CNPY1;A0A452E798;A0A452E798_CAPHI;Canopy FGF signaling regulator 1;CNPY1;Capra hircus (Goat);Unreviewed;heart development
+92;EN2;A0A452G830;A0A452G830_CAPHI;15-oxoprostaglandin 13-reductase;PTGR1;Capra hircus (Goat);Unreviewed;heart development
+93;LOC106502073;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+94;INSIG1;A0A452FSQ1;A0A452FSQ1_CAPHI;Insulin-induced gene protein;INSIG1;Capra hircus (Goat);Unreviewed;heart development
+95;HTR5A;A0A452E9I6;A0A452E9I6_CAPHI;5-hydroxytryptamine receptor 5A;HTR5A;Capra hircus (Goat);Unreviewed;heart development
+96;PAXIP1;A0A452DUU6;A0A452DUU6_CAPHI;E3 ubiquitin-protein ligase RNF8;RNF8;Capra hircus (Goat);Unreviewed;heart development
+97;DPP6;A0A452DT82;A0A452DT82_CAPHI;Dipeptidyl peptidase like 6;DPP6;Capra hircus (Goat);Unreviewed;heart development
+98;LOC102183393;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+99;GALNT11;A0A452G8Y3;A0A452G8Y3_CAPHI;Polypeptide N-acetylgalactosaminyltransferase;GALNT11;Capra hircus (Goat);Unreviewed;heart development
+100;GALNTL5;A0A452F827;A0A452F827_CAPHI;Polypeptide N-acetylgalactosaminyltransferase like;GALNTL5;Capra hircus (Goat);Unreviewed;heart development
+101;PRKAG2;A0A452FWT4;A0A452FWT4_CAPHI;Protein kinase AMP-activated non-catalytic subunit;PRKAG2;Capra hircus (Goat);Unreviewed;heart development
+102;TRC-GCA7-1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+103;RHEB;A0A452F082;A0A452F082_CAPHI;Ras homolog, mTORC1 binding;RHEB;Capra hircus (Goat);Unreviewed;heart development
+104;CRYGN;A0A452GB80;A0A452GB80_CAPHI;Crystallin gamma N;CRYGN;Capra hircus (Goat);Unreviewed;heart development
+105;WDR86;A0A452F4T6;A0A452F4T6_CAPHI;WD repeat domain 86;WDR86;Capra hircus (Goat);Unreviewed;heart development
+106;NUB1;A0A452E239;A0A452E239_CAPHI;Negative regulator of ubiquitin like proteins 1;NUB1;Capra hircus (Goat);Unreviewed;heart development
+107;SMARCD3;A0A452G138;A0A452G138_CAPHI;SWI/SNF related, matrix associated, actin dependen;SMARCD3;Capra hircus (Goat);Unreviewed;heart development
+108;LOC108635818;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+109;MIR671;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+110;ABCF2;A0A452G3X5;A0A452G3X5_CAPHI;ATP binding cassette subfamily F member 2;ABCF2;Capra hircus (Goat);Unreviewed;heart development
+111;LOC102188114;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+112;IQCA1L;A0A452F3B7;A0A452F3B7_CAPHI;IQ motif containing with AAA domain 1 like;IQCA1L;Capra hircus (Goat);Unreviewed;heart development
+113;ASB10;A0A452EHY3;A0A452EHY3_CAPHI;Ankyrin repeat and SOCS box containing 10;ASB10;Capra hircus (Goat);Unreviewed;heart development
+114;GBX1;A0A452FDI3;A0A452FDI3_CAPHI;Gastrulation brain homeobox 1;GBX1;Capra hircus (Goat);Unreviewed;heart development
+115;AGAP3;A0A452EGC7;A0A452EGC7_CAPHI;ArfGAP with GTPase domain, ankyrin repeat and PH d;AGAP3;Capra hircus (Goat);Unreviewed;heart development
+116;NCKAP1L;A0A452E1C1;A0A452E1C1_CAPHI;NCK associated protein 1 like;NCKAP1L;Capra hircus (Goat);Unreviewed;heart development
+117;GTSF1;A0A452FFW8;A0A452FFW8_CAPHI;Gametocyte specific factor 1 like;GTSF1L;Capra hircus (Goat);Unreviewed;heart development
+118;ITGA5;A7Y3X8;A7Y3X8_CAPHI;Multifunctional fusion protein;IL1B;Capra hircus (Goat);Unreviewed;heart development
+119;ZNF385A;A0A452EVM1;A0A452EVM1_CAPHI;Zinc finger protein 385A;ZNF385A;Capra hircus (Goat);Unreviewed;heart development
+120;GPR84;A0A452DNN8;A0A452DNN8_CAPHI;G protein-coupled receptor 84;GPR84;Capra hircus (Goat);Unreviewed;heart development
+121;COPZ1;A0A452DYC8;A0A452DYC8_CAPHI;Coatomer subunit zeta;COPZ1;Capra hircus (Goat);Unreviewed;heart development
+122;MIR148B;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+123;NFE2;A0A0A7MB97;A0A0A7MB97_CAPHI;Nuclear factor erythroid 2-related factor 2;NFE2L2;Capra hircus (Goat);Unreviewed;heart development
+124;HNRNPA1;A0A452G1G3;A0A452G1G3_CAPHI;Helix-destabilizing protein;HNRNPA1;Capra hircus (Goat);Unreviewed;heart development
+125;CBX5;A0A452G643;A0A452G643_CAPHI;Chromobox 5;CBX5;Capra hircus (Goat);Unreviewed;heart development
+126;SMUG1;A0A452E1S1;A0A452E1S1_CAPHI;Single-strand-selective monofunctional uracil-DNA ;SMUG1;Capra hircus (Goat);Unreviewed;heart development
+127;LOC106502088;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+128;HOXC4;A0A452G5S3;A0A452G5S3_CAPHI;Homeobox C4;HOXC4;Capra hircus (Goat);Unreviewed;heart development
+129;HOXC5;A0A452DSG0;A0A452DSG0_CAPHI;Homeobox C5;HOXC5;Capra hircus (Goat);Unreviewed;heart development
+130;HOXC6;A0A452EG86;A0A452EG86_CAPHI;Homeobox C6;HOXC6;Capra hircus (Goat);Unreviewed;heart development
+131;HOXC8;A0A1S5UZS7;A0A1S5UZS7_CAPHI;HOXC8;HOXC8;Capra hircus (Goat);Unreviewed;heart development
+132;LOC108635995;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+133;HOXC9;A0A452ESK7;A0A452ESK7_CAPHI;Homeobox protein;HOXC9;Capra hircus (Goat);Unreviewed;heart development
+134;LOC102190854;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+135;HOXC10;A0A452DTC4;A0A452DTC4_CAPHI;Homeobox C10;HOXC10;Capra hircus (Goat);Unreviewed;heart development
+136;HOXC11;A0A452G1W3;A0A452G1W3_CAPHI;Homeobox C11;HOXC11;Capra hircus (Goat);Unreviewed;heart development
+137;HOXC12;A0A452DUA8;A0A452DUA8_CAPHI;Homeobox C12;HOXC12;Capra hircus (Goat);Unreviewed;heart development
+138;HOXC13;A0A2S1UF42;A0A2S1UF42_CAPHI;Homeobox C13;HOXC13;Capra hircus (Goat);Unreviewed;heart development
+139;LOC102178515;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+140;LOC102178797;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+141;CALCOCO1;A0A452EX36;A0A452EX36_CAPHI;Calcium binding and coiled-coil domain 1;CALCOCO1;Capra hircus (Goat);Unreviewed;heart development
+142;LOC106502089;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+143;ATP5G2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+144;LOC102169075;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+145;GPRIN3;A0A452DW05;A0A452DW05_CAPHI;GPRIN family member 3;GPRIN3;Capra hircus (Goat);Unreviewed;heart development
+146;TIGD2;A0A452DY04;A0A452DY04_CAPHI;Tigger transposable element derived 2;TIGD2;Capra hircus (Goat);Unreviewed;heart development
+147;FAM13A;A0A452EV11;A0A452EV11_CAPHI;Family with sequence similarity 13 member A;FAM13A;Capra hircus (Goat);Unreviewed;heart development
+148;HERC3;A0A452E257;A0A452E257_CAPHI;HECT and RLD domain containing E3 ubiquitin protei;HERC3;Capra hircus (Goat);Unreviewed;heart development
+149;NAP1L5;A0A452FCN1;A0A452FCN1_CAPHI;Nucleosome assembly protein 1 like 5;NAP1L5;Capra hircus (Goat);Unreviewed;heart development
+150;PYURF;A0A452E134;A0A452E134_CAPHI;PIGY upstream reading frame;PYURF;Capra hircus (Goat);Unreviewed;heart development
+151;PIGY;A0A452DWT3;A0A452DWT3_CAPHI;Phosphatidylinositol glycan anchor biosynthesis cl;PIGY;Capra hircus (Goat);Unreviewed;heart development
+152;HERC5;A0A452E1S6;A0A452E1S6_CAPHI;HECT and RLD domain containing E3 ubiquitin protei;HERC5;Capra hircus (Goat);Unreviewed;heart development
+153;LOC106502196;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+154;HERC6;A0A452FR11;A0A452FR11_CAPHI;HECT and RLD domain containing E3 ubiquitin protei;HERC6;Capra hircus (Goat);Unreviewed;heart development
+155;LOC108636216;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+156;PPM1K;A0A452ESG0;A0A452ESG0_CAPHI;Protein phosphatase, Mg2+/Mn2+ dependent 1K;PPM1K;Capra hircus (Goat);Unreviewed;heart development
+157;ABCG2;C6KJ77;C6KJ77_CAPHI;ATP-binding cassette sub-family G member 2;ABCG2;Capra hircus (Goat);Unreviewed;heart development
+158;PKD2;A0A452FDR6;A0A452FDR6_CAPHI;Polycystin 2, transient receptor potential cation ;PKD2;Capra hircus (Goat);Unreviewed;heart development
+159;SPP1;A0A452EN89;A0A452EN89_CAPHI;Secreted phosphoprotein 1;SPP1;Capra hircus (Goat);Unreviewed;heart development
+160;MEPE;A0A452DN25;A0A452DN25_CAPHI;Matrix extracellular phosphoglycoprotein;MEPE;Capra hircus (Goat);Unreviewed;heart development
+161;IBSP;A0A452FIP9;A0A452FIP9_CAPHI;Bone sialoprotein 2;IBSP;Capra hircus (Goat);Unreviewed;heart development
+162;LOC102176111;A0A452EVB4;A0A452EVB4_CAPHI;Triosephosphate isomerase;LOC102176111;Capra hircus (Goat);Unreviewed;heart development
+163;TRNAA-CGC;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+164;LAP3;A0A452DVV1;A0A452DVV1_CAPHI;Cysteinylglycine-S-conjugate dipeptidase;LAP3;Capra hircus (Goat);Unreviewed;heart development
+165;MED28;A0A452G5F7;A0A452G5F7_CAPHI;Mediator complex subunit 28;MED28;Capra hircus (Goat);Unreviewed;heart development
+166;FAM184B;A0A452F381;A0A452F381_CAPHI;Family with sequence similarity 184 member B;FAM184B;Capra hircus (Goat);Unreviewed;heart development
+167;LOC106502187;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+168;DCAF16;A0A452F4I8;A0A452F4I8_CAPHI;DDB1 and CUL4 associated factor 16;DCAF16;Capra hircus (Goat);Unreviewed;heart development
+169;NCAPG;A0A452EBY0;A0A452EBY0_CAPHI;Non-SMC condensin I complex subunit G;NCAPG;Capra hircus (Goat);Unreviewed;heart development
+170;LCORL;A0A452FBL5;A0A452FBL5_CAPHI;Ligand dependent nuclear receptor corepressor like;LCORL;Capra hircus (Goat);Unreviewed;heart development
+171;LOC102178056;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+172;LOC102190868;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+173;FBXL17;A0A452FPH6;A0A452FPH6_CAPHI;F-box and leucine rich repeat protein 17;FBXL17;Capra hircus (Goat);Unreviewed;heart development
+174;LOC102184996;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+175;EFNA5;A0A452EE67;A0A452EE67_CAPHI;Ephrin A5;EFNA5;Capra hircus (Goat);Unreviewed;heart development
+176;LOC106502373;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+177;LOC108636347;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+178;LOC102170226;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+179;GLRA1;A0A452EZE1;A0A452EZE1_CAPHI;Glycine receptor alpha 1;GLRA1;Capra hircus (Goat);Unreviewed;heart development
+180;G3BP1;P03308;POLG_FMDVA;Genome polyprotein;N/A;Foot-and-mouth disease virus (isolate Bovine/Unite;Reviewed;heart development
+181;ATOX1;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+182;SPARC;A9LLG1;A9LLG1_CAPHI;Osteonectin;SPARC;Capra hircus (Goat);Unreviewed;heart development
+183;FAT2;A0A452DX03;A0A452DX03_CAPHI;FAT atypical cadherin 2;FAT2;Capra hircus (Goat);Unreviewed;heart development
+184;LOC102191423;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+185;SLC36A2;A0A452EIB3;A0A452EIB3_CAPHI;Solute carrier family 36 member 2;SLC36A2;Capra hircus (Goat);Unreviewed;heart development
+186;LOC102174838;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+187;GM2A;A0A452G6S7;A0A452G6S7_CAPHI;GM2 ganglioside activator;GM2A;Capra hircus (Goat);Unreviewed;heart development
+188;CCDC69;A0A452EI10;A0A452EI10_CAPHI;Coiled-coil domain containing 69;CCDC69;Capra hircus (Goat);Unreviewed;heart development
+189;ANXA6;A0A452EVH6;A0A452EVH6_CAPHI;Annexin;ANXA6;Capra hircus (Goat);Unreviewed;heart development
+190;TNIP1;A0A452G1D6;A0A452G1D6_CAPHI;TNFAIP3 interacting protein 1;TNIP1;Capra hircus (Goat);Unreviewed;heart development
+191;GPX3;A0A452FPN7;A0A452FPN7_CAPHI;Glutathione peroxidase 3;GPX3;Capra hircus (Goat);Unreviewed;heart development
+192;ZNF300;A0A452EXF2;A0A452EXF2_CAPHI;Zinc finger protein 300;ZNF300;Capra hircus (Goat);Unreviewed;heart development
+193;LOC106502342;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+194;SMIM3;A0A452E1W3;A0A452E1W3_CAPHI;Small integral membrane protein 3;SMIM3;Capra hircus (Goat);Unreviewed;heart development
+195;DCTN4;A0A452FUI0;A0A452FUI0_CAPHI;Dynactin subunit 4;DCTN4;Capra hircus (Goat);Unreviewed;heart development
+196;RBM22;A0A452ESB3;A0A452ESB3_CAPHI;Pre-mRNA-splicing factor RBM22;RBM22;Capra hircus (Goat);Unreviewed;heart development
+197;MYOZ3;A0A452GAS8;A0A452GAS8_CAPHI;Myozenin 3;MYOZ3;Capra hircus (Goat);Unreviewed;heart development
+198;SYNPO;A0A452FLZ7;A0A452FLZ7_CAPHI;Synaptopodin 2;SYNPO2;Capra hircus (Goat);Unreviewed;heart development
+199;LOC102182592;A0A452DVI0;A0A452DVI0_CAPHI;Sentrin-specific protease 8;LOC102182592;Capra hircus (Goat);Unreviewed;heart development
+200;SLC24A2;A0A452G3Z5;A0A452G3Z5_CAPHI;Solute carrier family 24 member 2;SLC24A2;Capra hircus (Goat);Unreviewed;heart development
+201;ACER2;A0A452FRS4;A0A452FRS4_CAPHI;Alkaline ceramidase;ACER2;Capra hircus (Goat);Unreviewed;heart development
+202;RPS6;A0A452FNF2;A0A452FNF2_CAPHI;Ribosomal protein S6 kinase;RPS6KA3;Capra hircus (Goat);Unreviewed;heart development
+203;DENND4C;A0A452FQR5;A0A452FQR5_CAPHI;DENN domain containing 4C;DENND4C;Capra hircus (Goat);Unreviewed;heart development
+204;LOC102184341;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+205;LOC108636651;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+206;PLIN2;A0A452EIE6;A0A452EIE6_CAPHI;Perilipin;PLIN2;Capra hircus (Goat);Unreviewed;heart development
+207;HAUS6;A0A452FZ88;A0A452FZ88_CAPHI;HAUS augmin like complex subunit 6;HAUS6;Capra hircus (Goat);Unreviewed;heart development
+208;LOC102169668;A0A452EQK6;A0A452EQK6_CAPHI;Dihydrofolate reductase;LOC102169668;Capra hircus (Goat);Unreviewed;heart development
+209;TRNAC-GCA;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+210;RRAGA;A0A452DQZ4;A0A452DQZ4_CAPHI;Ras-related GTP-binding protein;RRAGA;Capra hircus (Goat);Unreviewed;heart development
+211;SAXO1;A0A452EQ77;A0A452EQ77_CAPHI;Stabilizer of axonemal microtubules 1;SAXO1;Capra hircus (Goat);Unreviewed;heart development
+212;ADAMTSL1;A0A452G5L6;A0A452G5L6_CAPHI;ADAMTS like 1;ADAMTSL1;Capra hircus (Goat);Unreviewed;heart development
+213;RIC1;A0A452DQ32;A0A452DQ32_CAPHI;Gap junction protein;GJA1;Capra hircus (Goat);Unreviewed;heart development
+214;LOC108636599;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+215;LOC106502403;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+216;PDCD1LG2;A0A452FYH6;A0A452FYH6_CAPHI;Programmed cell death 1 ligand 2;PDCD1LG2;Capra hircus (Goat);Unreviewed;heart development
+217;LOC108636553;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+218;LOC102175576;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+219;CD274;A0A452F002;A0A452F002_CAPHI;CD274 molecule;CD274;Capra hircus (Goat);Unreviewed;heart development
+220;PLGRKT;A0A452F189;A0A452F189_CAPHI;Plasminogen receptor with a C-terminal lysine;PLGRKT;Capra hircus (Goat);Unreviewed;heart development
+221;INSL6;A0A452FEB2;A0A452FEB2_CAPHI;Insulin like 6;INSL6;Capra hircus (Goat);Unreviewed;heart development
+222;JAK2;A0A452DQ72;A0A452DQ72_CAPHI;Tyrosine-protein kinase;JAK2;Capra hircus (Goat);Unreviewed;heart development
+223;RCL1;A0A452EC56;A0A452EC56_CAPHI;RNA terminal phosphate cyclase like 1;RCL1;Capra hircus (Goat);Unreviewed;heart development
+224;AK3;A0A452DUP7;A0A452DUP7_CAPHI;Adenylate kinase 4, mitochondrial;AK4;Capra hircus (Goat);Unreviewed;heart development
+225;CDC37L1;A0A452G209;A0A452G209_CAPHI;Cell division cycle 37 like 1;CDC37L1;Capra hircus (Goat);Unreviewed;heart development
+226;LOC102181499;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+227;PLPP6;A0A452DMS6;A0A452DMS6_CAPHI;Phospholipid phosphatase 6;PLPP6;Capra hircus (Goat);Unreviewed;heart development
+228;TRNAL-CAA;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+229;LOC102189482;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+230;OSTM1;A0A452F2L9;A0A452F2L9_CAPHI;Osteoclastogenesis associated transmembrane protei;OSTM1;Capra hircus (Goat);Unreviewed;heart development
+231;SEC63;A0A452FIA8;A0A452FIA8_CAPHI;SEC63 homolog, protein translocation regulator;SEC63;Capra hircus (Goat);Unreviewed;heart development
+232;SCML4;A0A452E4Z2;A0A452E4Z2_CAPHI;Scm polycomb group protein like 4;SCML4;Capra hircus (Goat);Unreviewed;heart development
+233;SOBP;A0A452DV95;A0A452DV95_CAPHI;Sine oculis binding protein homolog;SOBP;Capra hircus (Goat);Unreviewed;heart development
+234;PDSS2;A0A452EPC2;A0A452EPC2_CAPHI;Decaprenyl diphosphate synthase subunit 2;PDSS2;Capra hircus (Goat);Unreviewed;heart development
+235;BEND3;A0A452E525;A0A452E525_CAPHI;BEN domain containing 3;BEND3;Capra hircus (Goat);Unreviewed;heart development
+236;C9H6orf203;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+237;LOC102180126;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+238;CD24;A0A452EP63;A0A452EP63_CAPHI;CD24 molecule;CD24;Capra hircus (Goat);Unreviewed;heart development
+239;QRSL1;A0A452F041;A0A452F041_CAPHI;Glutamyl-tRNA(Gln) amidotransferase subunit A, mit;QRSL1;Capra hircus (Goat);Unreviewed;heart development
+240;RTN4IP1;A0A452E7Y7;A0A452E7Y7_CAPHI;Reticulon 4 interacting protein 1;RTN4IP1;Capra hircus (Goat);Unreviewed;heart development
+241;CRYBG1;A0A452FFP3;A0A452FFP3_CAPHI;Crystallin beta-gamma domain containing 1;CRYBG1;Capra hircus (Goat);Unreviewed;heart development
+242;ATG5;A0A452FAH8;A0A452FAH8_CAPHI;Autophagy protein 5;ATG5;Capra hircus (Goat);Unreviewed;heart development
+243;LOC102180942;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+244;PRDM1;A0A452FT02;A0A452FT02_CAPHI;PR domain zinc finger protein 1;PRDM1;Capra hircus (Goat);Unreviewed;heart development
+245;LOC102181500;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+246;SGK1;O02828;TAU_CAPHI;Microtubule-associated protein tau;MAPT;Capra hircus (Goat);Reviewed;heart development
+247;LOC102177441;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+248;LOC102171073;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+249;LOC106502481;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+250;ALDH8A1;A0A452FSX2;A0A452FSX2_CAPHI;Aldehyde dehydrogenase 8 family member A1;ALDH8A1;Capra hircus (Goat);Unreviewed;heart development
+251;HBS1L;A0A452E3M4;A0A452E3M4_CAPHI;HBS1-like protein;HBS1L;Capra hircus (Goat);Unreviewed;heart development
+252;MYB;A0A452DUN6;A0A452DUN6_CAPHI;Histone-lysine N-methyltransferase EZH2;EZH2;Capra hircus (Goat);Unreviewed;heart development
+253;AHI1;A0A452G2A1;A0A452G2A1_CAPHI;Abelson helper integration site 1;AHI1;Capra hircus (Goat);Unreviewed;heart development
+254;PDE7B;A0A452G628;A0A452G628_CAPHI;Phosphodiesterase;PDE7B;Capra hircus (Goat);Unreviewed;heart development
+255;EIF3J;A0A452FMF2;A0A452FMF2_CAPHI;Eukaryotic translation initiation factor 3 subunit;EIF3J;Capra hircus (Goat);Unreviewed;heart development
+256;CTDSPL2;A0A452EC48;A0A452EC48_CAPHI;CTD small phosphatase like 2;CTDSPL2;Capra hircus (Goat);Unreviewed;heart development
+257;LOC108636916;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+258;GOLM2;A0A452FXT8;A0A452FXT8_CAPHI;Golgi membrane protein 2;GOLM2;Capra hircus (Goat);Unreviewed;heart development
+259;RPS6KA5;A0A452EZT2;A0A452EZT2_CAPHI;Ribosomal protein S6 kinase;RPS6KA5;Capra hircus (Goat);Unreviewed;heart development
+260;TTC7B;A0A452EQL3;A0A452EQL3_CAPHI;Tetratricopeptide repeat domain 7B;TTC7B;Capra hircus (Goat);Unreviewed;heart development
+261;LOC108636918;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+262;CALM1;A0A452E734;A0A452E734_CAPHI;Calmodulin 1;CALM2;Capra hircus (Goat);Unreviewed;heart development
+263;NRDE2;A0A452DS17;A0A452DS17_CAPHI;NRDE-2, necessary for RNA interference, domain con;NRDE2;Capra hircus (Goat);Unreviewed;heart development
+264;PSMC1;A0A452EY56;A0A452EY56_CAPHI;Proteasome 26S subunit, ATPase 1;PSMC1;Capra hircus (Goat);Unreviewed;heart development
+265;KCNK13;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+266;TDP1;A0A452ECF8;A0A452ECF8_CAPHI;Tyrosyl-DNA phosphodiesterase 1;TDP1;Capra hircus (Goat);Unreviewed;heart development
+267;EFCAB11;A0A452F2U9;A0A452F2U9_CAPHI;EF-hand calcium binding domain 11;EFCAB11;Capra hircus (Goat);Unreviewed;heart development
+268;LOC108636919;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+269;FOXN3;A0A452DTI7;A0A452DTI7_CAPHI;Forkhead box N3;FOXN3;Capra hircus (Goat);Unreviewed;heart development
+270;LOC102174033;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+271;LOC102179290;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+272;ADCK1;A0A452G7Z7;A0A452G7Z7_CAPHI;AarF domain containing kinase 1;ADCK1;Capra hircus (Goat);Unreviewed;heart development
+273;SNW1;A0A452E277;A0A452E277_CAPHI;SNW domain-containing protein 1;SNW1;Capra hircus (Goat);Unreviewed;heart development
+274;SLIRP;A0A452F8C9;A0A452F8C9_CAPHI;SRA stem-loop interacting RNA binding protein;SLIRP;Capra hircus (Goat);Unreviewed;heart development
+275;ALKBH1;A0A452F2T9;A0A452F2T9_CAPHI;AlkB homolog 1, histone H2A dioxygenase;ALKBH1;Capra hircus (Goat);Unreviewed;heart development
+276;TRNAW-CCA;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+277;SPTLC2;A0A452FLI5;A0A452FLI5_CAPHI;Serine palmitoyltransferase long chain base subuni;SPTLC2;Capra hircus (Goat);Unreviewed;heart development
+278;LOC102179011;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+279;LOC102172451;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+280;LOC108636922;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+281;ISM2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+282;AHSA1;A0A452G5Y6;A0A452G5Y6_CAPHI;Activator of HSP90 ATPase activity 1;AHSA1;Capra hircus (Goat);Unreviewed;heart development
+283;VIPAS39;A0A452E7T6;A0A452E7T6_CAPHI;Spermatogenesis-defective protein 39 homolog;VIPAS39;Capra hircus (Goat);Unreviewed;heart development
+284;LOC102171344;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+285;LOC102171160;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+286;BCL2L11;A0A452FCR6;A0A452FCR6_CAPHI;Bcl-2-like protein 11;BCL2L11;Capra hircus (Goat);Unreviewed;heart development
+287;ACOXL;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+288;BUB1;A0A452EAT1;A0A452EAT1_CAPHI;BUB1 mitotic checkpoint serine/threonine kinase;BUB1;Capra hircus (Goat);Unreviewed;heart development
+289;LOC102171434;A0A452F315;A0A452F315_CAPHI;Two pore calcium channel protein 2;LOC102171434;Capra hircus (Goat);Unreviewed;heart development
+290;LOC106502597;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+291;NPHP1;A0A452FTC6;A0A452FTC6_CAPHI;Nephrocystin 1;NPHP1;Capra hircus (Goat);Unreviewed;heart development
+292;MALL;A0A452EHR8;A0A452EHR8_CAPHI;Mal, T cell differentiation protein like;MALL;Capra hircus (Goat);Unreviewed;heart development
+293;MAL;A0A452EGR2;A0A452EGR2_CAPHI;L-lactate dehydrogenase;LDHC;Capra hircus (Goat);Unreviewed;heart development
+294;LOC102172271;A0A452FCD8;A0A452FCD8_CAPHI;Myelin and lymphocyte protein;LOC102172271;Capra hircus (Goat);Unreviewed;heart development
+295;MRPS5;A0A452FG49;A0A452FG49_CAPHI;Mitochondrial ribosomal protein S5;MRPS5;Capra hircus (Goat);Unreviewed;heart development
+296;LOC102173309;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+297;ZNF514;A0A452FSW5;A0A452FSW5_CAPHI;Zinc finger protein 514;ZNF514;Capra hircus (Goat);Unreviewed;heart development
+298;ZNF2;A0A452ECN1;A0A452ECN1_CAPHI;Zinc finger protein 2;ZNF2;Capra hircus (Goat);Unreviewed;heart development
+299;LOC106502594;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+300;PROM2;A0A452F3X9;A0A452F3X9_CAPHI;Prominin 2;PROM2;Capra hircus (Goat);Unreviewed;heart development
+301;KCNIP3;A0A452FUG3;A0A452FUG3_CAPHI;Potassium voltage-gated channel interacting protei;KCNIP3;Capra hircus (Goat);Unreviewed;heart development
+302;LOC102175132;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+303;GPAT2;A0A452FP39;A0A452FP39_CAPHI;Glycerol-3-phosphate acyltransferase 2, mitochondr;GPAT2;Capra hircus (Goat);Unreviewed;heart development
+304;ADRA2B;A0A452ES56;A0A452ES56_CAPHI;Alpha-2B adrenergic receptor;ADRA2B;Capra hircus (Goat);Unreviewed;heart development
+305;ASTL;A0A452G1L3;A0A452G1L3_CAPHI;Metalloendopeptidase;ASTL;Capra hircus (Goat);Unreviewed;heart development
+306;DUSP2;A0A452G5C5;A0A452G5C5_CAPHI;Dual specificity protein phosphatase;DUSP2;Capra hircus (Goat);Unreviewed;heart development
+307;STARD7;A0A452FR46;A0A452FR46_CAPHI;StAR related lipid transfer domain containing 7;STARD7;Capra hircus (Goat);Unreviewed;heart development
+308;LOC108637128;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+309;TMEM127;A0A452EAS5;A0A452EAS5_CAPHI;Transmembrane protein 127;TMEM127;Capra hircus (Goat);Unreviewed;heart development
+310;CIAO1;A0A452FMH1;A0A452FMH1_CAPHI;Probable cytosolic iron-sulfur protein assembly pr;CIAO1;Capra hircus (Goat);Unreviewed;heart development
+311;SNRNP200;A0A452FFG2;A0A452FFG2_CAPHI;Small nuclear ribonucleoprotein U5 subunit 200;SNRNP200;Capra hircus (Goat);Unreviewed;heart development
+312;LOC102168554;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+313;TMTC4;A0A452ENZ9;A0A452ENZ9_CAPHI;Dolichyl-phosphate-mannose--protein mannosyltransf;TMTC4;Capra hircus (Goat);Unreviewed;heart development
+314;GGACT;A0A452FEN9;A0A452FEN9_CAPHI;Gamma-glutamylaminecyclotransferase;GGACT;Capra hircus (Goat);Unreviewed;heart development
+315;PCCA;A0A452DUB6;A0A452DUB6_CAPHI;Propanoyl-CoA:carbon dioxide ligase subunit alpha;PCCA;Capra hircus (Goat);Unreviewed;heart development
+316;LOC102191345;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+317;ZIC2;A0A452FVU8;A0A452FVU8_CAPHI;Zic family member 2;ZIC2;Capra hircus (Goat);Unreviewed;heart development
+318;ZIC5;A0A452E2Y5;A0A452E2Y5_CAPHI;Zic family member 5;ZIC5;Capra hircus (Goat);Unreviewed;heart development
+319;CLYBL;A0A452FKU2;A0A452FKU2_CAPHI;Citrate lyase beta like;CLYBL;Capra hircus (Goat);Unreviewed;heart development
+320;TRNAG-CCC;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+321;TM9SF2;A0A452E1Y6;A0A452E1Y6_CAPHI;Transmembrane 9 superfamily member;TM9SF2;Capra hircus (Goat);Unreviewed;heart development
+322;LOC108637269;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+323;LOC102178740;A0A452EL39;A0A452EL39_CAPHI;G-protein coupled receptor 183-like;LOC102178740;Capra hircus (Goat);Unreviewed;heart development
+324;UBAC2;A0A452FRR6;A0A452FRR6_CAPHI;UBA domain containing 2;UBAC2;Capra hircus (Goat);Unreviewed;heart development
+325;LOC102177727;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+326;GPR18;A0A452FQA3;A0A452FQA3_CAPHI;G-protein coupled receptor 18;GPR18;Capra hircus (Goat);Unreviewed;heart development
+327;DOCK9;A0A452F7S1;A0A452F7S1_CAPHI;Dedicator of cytokinesis 9;DOCK9;Capra hircus (Goat);Unreviewed;heart development
+328;SLC15A1;A0A452F7V1;A0A452F7V1_CAPHI;Solute carrier family 15 member 1;SLC15A1;Capra hircus (Goat);Unreviewed;heart development
+329;STK24;A0A452EMQ4;A0A452EMQ4_CAPHI;Serine/threonine kinase 24;STK24;Capra hircus (Goat);Unreviewed;heart development
+330;FARP1;A0A452GB91;A0A452GB91_CAPHI;FERM, ARH/RhoGEF and pleckstrin domain protein 2;FARP2;Capra hircus (Goat);Unreviewed;heart development
+331;ATP12A;A0A452FSR2;A0A452FSR2_CAPHI;Sodium/potassium-transporting ATPase subunit alpha;ATP12A;Capra hircus (Goat);Unreviewed;heart development
+332;RNF17;A0A452G8P6;A0A452G8P6_CAPHI;Ring finger protein 17;RNF17;Capra hircus (Goat);Unreviewed;heart development
+333;LOC102174219;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+334;CENPJ;A0A452DQP9;A0A452DQP9_CAPHI;Centromere protein J;CENPJ;Capra hircus (Goat);Unreviewed;heart development
+335;LOC102173478;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+336;PARP4;A0A452ETB8;A0A452ETB8_CAPHI;Poly [ADP-ribose] polymerase;PARP4;Capra hircus (Goat);Unreviewed;heart development
+337;MPHOSPH8;A0A452FCR7;A0A452FCR7_CAPHI;M-phase phosphoprotein 8;MPHOSPH8;Capra hircus (Goat);Unreviewed;heart development
+338;LOC108637349;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+339;SPTLC3;A0A452DVM3;A0A452DVM3_CAPHI;Serine palmitoyltransferase long chain base subuni;SPTLC3;Capra hircus (Goat);Unreviewed;heart development
+340;ISM1;A0A452E9N3;A0A452E9N3_CAPHI;Isthmin 1;ISM1;Capra hircus (Goat);Unreviewed;heart development
+341;TASP1;A0A452FXP0;A0A452FXP0_CAPHI;Taspase 1;TASP1;Capra hircus (Goat);Unreviewed;heart development
+342;ESF1;A0A452FHK7;A0A452FHK7_CAPHI;ESF1 nucleolar pre-rRNA processing protein homolog;ESF1;Capra hircus (Goat);Unreviewed;heart development
+343;NDUFAF5;A0A452FAB1;A0A452FAB1_CAPHI;NADH:ubiquinone oxidoreductase complex assembly fa;NDUFAF5;Capra hircus (Goat);Unreviewed;heart development
+344;SEL1L2;A0A452ER68;A0A452ER68_CAPHI;SEL1L2 adaptor subunit of ERAD E3 ligase;SEL1L2;Capra hircus (Goat);Unreviewed;heart development
+345;LOC102186409;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+346;MACROD2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+347;KIF16B;A0A452FJ17;A0A452FJ17_CAPHI;Kinesin family member 16B;KIF16B;Capra hircus (Goat);Unreviewed;heart development
+348;SNRPB2;A0A452DYF7;A0A452DYF7_CAPHI;Small nuclear ribonucleoprotein polypeptide B2;SNRPB2;Capra hircus (Goat);Unreviewed;heart development
+349;OTOR;A0A452FLA6;A0A452FLA6_CAPHI;Otoraplin;OTOR;Capra hircus (Goat);Unreviewed;heart development
+350;LOC102170614;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+351;NANP;A0A452EAD6;A0A452EAD6_CAPHI;N-acetylneuraminic acid phosphatase;NANP;Capra hircus (Goat);Unreviewed;heart development
+352;NINL;A0A452FJH8;A0A452FJH8_CAPHI;Ninein like;NINL;Capra hircus (Goat);Unreviewed;heart development
+353;LOC102171438;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+354;FBH1;A0A452EUW5;A0A452EUW5_CAPHI;DNA helicase;FBH1;Capra hircus (Goat);Unreviewed;heart development
+355;IL15RA;A0A452FXZ8;A0A452FXZ8_CAPHI;Interleukin;IL15;Capra hircus (Goat);Unreviewed;heart development
+356;IL2RA;A0A452FXZ8;A0A452FXZ8_CAPHI;Interleukin;IL15;Capra hircus (Goat);Unreviewed;heart development
+357;LOC102169883;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+358;RBM17;A0A452FSJ2;A0A452FSJ2_CAPHI;Splicing factor 45;RBM17;Capra hircus (Goat);Unreviewed;heart development
+359;PFKFB3;A0A452FTP2;A0A452FTP2_CAPHI;6-phosphofructo-2-kinase;PFKFB3;Capra hircus (Goat);Unreviewed;heart development
+360;PRKCQ;A0A452EQF5;A0A452EQF5_CAPHI;Protein kinase C delta type;PRKCD;Capra hircus (Goat);Unreviewed;heart development
+361;TRNAF-GAA;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+362;SFMBT2;A0A452EGJ7;A0A452EGJ7_CAPHI;Scm like with four mbt domains 2;SFMBT2;Capra hircus (Goat);Unreviewed;heart development
+363;BAMBI;A0A452EPW2;A0A452EPW2_CAPHI;BMP and activin membrane-bound inhibitor homolog;BAMBI;Capra hircus (Goat);Unreviewed;heart development
+364;WAC;A0A452FNV0;A0A452FNV0_CAPHI;WW domain containing adaptor with coiled-coil;WAC;Capra hircus (Goat);Unreviewed;heart development
+365;LOC102168462;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+366;LOC108637364;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+367;RPL30;A0A452EXP6;A0A452EXP6_CAPHI;60S ribosomal protein L30;RPL30;Capra hircus (Goat);Unreviewed;heart development
+368;ERICH5;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+369;RIDA;P80601;RIDA_CAPHI;2-iminobutanoate/2-iminopropanoate deaminase;RIDA;Capra hircus (Goat);Reviewed;heart development
+370;POP1;A0A452EGR8;A0A452EGR8_CAPHI;Ribonuclease P protein subunit p20;POP7;Capra hircus (Goat);Unreviewed;heart development
+371;NIPAL2;A0A452ERT2;A0A452ERT2_CAPHI;NIPA like domain containing 2;NIPAL2;Capra hircus (Goat);Unreviewed;heart development
+372;LOC102179113;A0A452DQX9;A0A452DQX9_CAPHI;Thyroid transcription factor 1-associated protein ;LOC102179113;Capra hircus (Goat);Unreviewed;heart development
+373;KCNS2;A0A452DQQ4;A0A452DQQ4_CAPHI;Potassium voltage-gated channel modifier subfamily;KCNS2;Capra hircus (Goat);Unreviewed;heart development
+374;STK3;A0A452E5J4;A0A452E5J4_CAPHI;Non-specific serine/threonine protein kinase;STK3;Capra hircus (Goat);Unreviewed;heart development
+375;OSR2;Q8MIP2;FOXL2_CAPHI;Forkhead box protein L2;FOXL2;Capra hircus (Goat);Reviewed;heart development
+376;LOC108637491;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+377;VPS13B;A0A452FM56;A0A452FM56_CAPHI;Uncharacterized protein;N/A;Capra hircus (Goat);Unreviewed;heart development
+378;LOC108637516;A0A452DT65;A0A452DT65_CAPHI;GTP-binding nuclear protein Ran;LOC108637516;Capra hircus (Goat);Unreviewed;heart development
+379;LOC108637517;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+380;LOC108637473;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+381;RGS22;A0A452EG16;A0A452EG16_CAPHI;Regulator of G protein signaling 22;RGS22;Capra hircus (Goat);Unreviewed;heart development
+382;LOC106502865;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+383;FBXO43;A0A452DW60;A0A452DW60_CAPHI;F-box protein 43;FBXO43;Capra hircus (Goat);Unreviewed;heart development
+384;POLR2K;A0A452EEG0;A0A452EEG0_CAPHI;RNA polymerase II subunit K;POLR2K;Capra hircus (Goat);Unreviewed;heart development
+385;SPAG1;A0A452F6A7;A0A452F6A7_CAPHI;Sperm associated antigen 1;SPAG1;Capra hircus (Goat);Unreviewed;heart development
+386;RNF19A;A0A452EK84;A0A452EK84_CAPHI;RBR-type E3 ubiquitin transferase;RNF19A;Capra hircus (Goat);Unreviewed;heart development
+387;LOC108637518;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+388;ANKRD46;A0A452FD24;A0A452FD24_CAPHI;Ankyrin repeat domain 46;ANKRD46;Capra hircus (Goat);Unreviewed;heart development
+389;SNX31;A0A452ELX5;A0A452ELX5_CAPHI;Sorting nexin 31;SNX31;Capra hircus (Goat);Unreviewed;heart development
+390;PABPC1;A0A452E3F5;A0A452E3F5_CAPHI;Protein argonaute-2;Ago-02;Capra hircus (Goat);Unreviewed;heart development
+391;LOC102175495;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+392;YWHAZ;A0A097C2Z1;A0A097C2Z1_CAPHI;Tyrosine 3-monooxygenase/tryptophan 5-monooxygenas;YWHAZ;Capra hircus (Goat);Unreviewed;heart development
+393;ZNF706;A0A452DTV1;A0A452DTV1_CAPHI;Zinc finger protein 706;ZNF706;Capra hircus (Goat);Unreviewed;heart development
+394;LOC102169117;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+395;LOC102178926;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+396;LOC102178644;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+397;LOC102178378;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+398;LOC102178094;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+399;LOC102168843;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+400;LOC102168560;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+401;LOC102168280;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+402;LOC102177822;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+403;LOC108637605;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+404;LOC102177548;A0A452E1J0;A0A452E1J0_CAPHI;Olfactory receptor;LOC102177548;Capra hircus (Goat);Unreviewed;heart development
+405;LOC102191634;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+406;LOC102177262;A0A452E4R4;A0A452E4R4_CAPHI;Olfactory receptor;LOC102177262;Capra hircus (Goat);Unreviewed;heart development
+407;LOC102191355;A0A452FYX0;A0A452FYX0_CAPHI;Olfactory receptor;LOC102191355;Capra hircus (Goat);Unreviewed;heart development
+408;LOC102176713;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+409;LOC102176984;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+410;LOC102191066;A0A452DUA1;A0A452DUA1_CAPHI;Olfactory receptor;LOC102191066;Capra hircus (Goat);Unreviewed;heart development
+411;LOC102176444;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+412;LOC102190805;A0A452E2W8;A0A452E2W8_CAPHI;Olfactory receptor;LOC102190805;Capra hircus (Goat);Unreviewed;heart development
+413;LOC102176149;A0A452DXE7;A0A452DXE7_CAPHI;Olfactory receptor;LOC102176149;Capra hircus (Goat);Unreviewed;heart development
+414;LOC102190535;A0A452E2U7;A0A452E2U7_CAPHI;Olfactory receptor;LOC102190535;Capra hircus (Goat);Unreviewed;heart development
+415;LOC102175879;A0A452DM69;A0A452DM69_CAPHI;Olfactory receptor;LOC102175879;Capra hircus (Goat);Unreviewed;heart development
+416;LOC102190247;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+417;LOC102189977;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+418;LOC102175603;A0A452DUK3;A0A452DUK3_CAPHI;Olfactory receptor;LOC102175603;Capra hircus (Goat);Unreviewed;heart development
+419;LOC102175320;A0A452DZK1;A0A452DZK1_CAPHI;Olfactory receptor;LOC102175320;Capra hircus (Goat);Unreviewed;heart development
+420;LOC102175048;A0A452DN84;A0A452DN84_CAPHI;Olfactory receptor;LOC102175048;Capra hircus (Goat);Unreviewed;heart development
+421;LOC102189696;A0A452DUY8;A0A452DUY8_CAPHI;Olfactory receptor;LOC102189696;Capra hircus (Goat);Unreviewed;heart development
+422;PTPRJ;A0A452EPU8;A0A452EPU8_CAPHI;Protein-tyrosine-phosphatase;PTPRM;Capra hircus (Goat);Unreviewed;heart development
+423;PLD5;A0A452F1V1;A0A452F1V1_CAPHI;Phospholipase D family member 5;PLD5;Capra hircus (Goat);Unreviewed;heart development
+424;BECN2;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+425;MAP1LC3C;A0A452FX09;A0A452FX09_CAPHI;Microtubule associated protein 1 light chain 3 gam;MAP1LC3C;Capra hircus (Goat);Unreviewed;heart development
+426;EXO1;A0A452ENL5;A0A452ENL5_CAPHI;DNA helicase;WRN;Capra hircus (Goat);Unreviewed;heart development
+427;WDR64;A0A452F6P8;A0A452F6P8_CAPHI;WD repeat domain 64;WDR64;Capra hircus (Goat);Unreviewed;heart development
+428;LOC102176544;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+429;CHML;A0A452DN11;A0A452DN11_CAPHI;Rab proteins geranylgeranyltransferase component A;CHML;Capra hircus (Goat);Unreviewed;heart development
+430;OPN3;P56444;MSHR_CAPHI;Melanocyte-stimulating hormone receptor;MC1R;Capra hircus (Goat);Reviewed;heart development
+431;KMO;A0A452F4E9;A0A452F4E9_CAPHI;Kynurenine 3-monooxygenase;KMO;Capra hircus (Goat);Unreviewed;heart development
+432;FH;A0A452EKC2;A0A452EKC2_CAPHI;Forkhead box P3;FOXP3;Capra hircus (Goat);Unreviewed;heart development
+433;RGS7;A0A452DVC1;A0A452DVC1_CAPHI;Regulator of G protein signaling 7 binding protein;RGS7BP;Capra hircus (Goat);Unreviewed;heart development
+434;LOC108637770;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+435;LOC102189780;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+436;LOC102190717;A0A452EYB1;A0A452EYB1_CAPHI;Lymphotactin;LOC102190717;Capra hircus (Goat);Unreviewed;heart development
+437;LOC102190981;A0A452G4M0;A0A452G4M0_CAPHI;Lymphotactin;LOC102190981;Capra hircus (Goat);Unreviewed;heart development
+438;SELP;A0A452FYP7;A0A452FYP7_CAPHI;Selectin P;SELP;Capra hircus (Goat);Unreviewed;heart development
+439;SELL;A0A452FKC6;A0A452FKC6_CAPHI;L-selectin;SELL;Capra hircus (Goat);Unreviewed;heart development
+440;SELE;A0A452DRR9;A0A452DRR9_CAPHI;Selectin E;SELE;Capra hircus (Goat);Unreviewed;heart development
+441;METTL18;A0A452DWE9;A0A452DWE9_CAPHI;Methyltransferase like 18;METTL18;Capra hircus (Goat);Unreviewed;heart development
+442;C16H1orf112;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+443;LOC106502954;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+444;SCYL3;A0A452DNV8;A0A452DNV8_CAPHI;SCY1 like pseudokinase 3;SCYL3;Capra hircus (Goat);Unreviewed;heart development
+445;KIFAP3;A0A452F920;A0A452F920_CAPHI;Kinesin associated protein 3;KIFAP3;Capra hircus (Goat);Unreviewed;heart development
+446;METTL11B;A0A452DVJ8;A0A452DVJ8_CAPHI;Methyltransferase like 11B;METTL11B;Capra hircus (Goat);Unreviewed;heart development
+447;LOC108637754;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+448;GORAB;A0A452F9F0;A0A452F9F0_CAPHI;N-terminal kinase-like-binding protein 1;GORAB;Capra hircus (Goat);Unreviewed;heart development
+449;PRRX1;A0A452E2W3;A0A452E2W3_CAPHI;Paired related homeobox 1;PRRX1;Capra hircus (Goat);Unreviewed;heart development
+450;MROH9;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+451;LOC102173111;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+452;SFI1;A0A452FBE6;A0A452FBE6_CAPHI;Uncharacterized protein;N/A;Capra hircus (Goat);Unreviewed;heart development
+453;LOC102173595;A0A452EVX5;A0A452EVX5_CAPHI;Splicing factor YJU2;LOC102173595;Capra hircus (Goat);Unreviewed;heart development
+454;EIF4ENIF1;A0A452EVY9;A0A452EVY9_CAPHI;Eukaryotic translation initiation factor 4E nuclea;EIF4ENIF1;Capra hircus (Goat);Unreviewed;heart development
+455;DRG1;A0A452EHG8;A0A452EHG8_CAPHI;Developmentally regulated GTP binding protein 1;DRG1;Capra hircus (Goat);Unreviewed;heart development
+456;PATZ1;A0A452FCY6;A0A452FCY6_CAPHI;POZ/BTB and AT hook containing zinc finger 1;PATZ1;Capra hircus (Goat);Unreviewed;heart development
+457;PIK3IP1;A0A452DYP0;A0A452DYP0_CAPHI;Phosphoinositide-3-kinase interacting protein 1;PIK3IP1;Capra hircus (Goat);Unreviewed;heart development
+458;LIMK2;A0A452F3K2;A0A452F3K2_CAPHI;LIM domain kinase 2;LIMK2;Capra hircus (Goat);Unreviewed;heart development
+459;LOC108637845;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+460;CRKL;A0A452DXE4;A0A452DXE4_CAPHI;Erythropoietin receptor;EPOR;Capra hircus (Goat);Unreviewed;heart development
+461;LOC108637844;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+462;RNF185;A0A452FJF2;A0A452FJF2_CAPHI;Ring finger protein 185;RNF185;Capra hircus (Goat);Unreviewed;heart development
+463;PLA2G3;A0A452FYT3;A0A452FYT3_CAPHI;Phospholipase A2 group III;PLA2G3;Capra hircus (Goat);Unreviewed;heart development
+464;INPP5J;A0A452FTK9;A0A452FTK9_CAPHI;Inositol-polyphosphate 5-phosphatase;INPP5J;Capra hircus (Goat);Unreviewed;heart development
+465;LOC102171091;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+466;SMTN;A0A452FBG8;A0A452FBG8_CAPHI;Smoothelin;SMTN;Capra hircus (Goat);Unreviewed;heart development
+467;LOC106503045;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+468;LOC102169320;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+469;MORC2;A0A452FN29;A0A452FN29_CAPHI;MORC family CW-type zinc finger 2;MORC2;Capra hircus (Goat);Unreviewed;heart development
+470;OSBP2;A0A452E5W0;A0A452E5W0_CAPHI;Oxysterol-binding protein;OSBP2;Capra hircus (Goat);Unreviewed;heart development
+471;C17H5orf52;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+472;DUSP18;A0A452DXE1;A0A452DXE1_CAPHI;Protein-tyrosine-phosphatase;DUSP18;Capra hircus (Goat);Unreviewed;heart development
+473;SLC35E4;A0A452FC11;A0A452FC11_CAPHI;Solute carrier family 35 member E4;SLC35E4;Capra hircus (Goat);Unreviewed;heart development
+474;TCN2;A0A452DSJ0;A0A452DSJ0_CAPHI;Transcobalamin 2;TCN2;Capra hircus (Goat);Unreviewed;heart development
+475;PES1;A0A452ETD0;A0A452ETD0_CAPHI;Pescadillo homolog;PES1;Capra hircus (Goat);Unreviewed;heart development
+476;GAL3ST1;A0A452E4H9;A0A452E4H9_CAPHI;Galactose-3-O-sulfotransferase 1;GAL3ST1;Capra hircus (Goat);Unreviewed;heart development
+477;LOC102190250;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+478;LOC102169408;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+479;SEC14L3;A0A452DPS5;A0A452DPS5_CAPHI;SEC14 like lipid binding 3;SEC14L3;Capra hircus (Goat);Unreviewed;heart development
+480;MTFP1;A0A452EEB6;A0A452EEB6_CAPHI;Mitochondrial 18 kDa protein;MTFP1;Capra hircus (Goat);Unreviewed;heart development
+481;LOC102180147;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+482;LOC106503091;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+483;CHD9;A0A452FH60;A0A452FH60_CAPHI;DNA helicase;CHD9;Capra hircus (Goat);Unreviewed;heart development
+484;LOC108637966;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+485;RBL2;A0A452G0H8;A0A452G0H8_CAPHI;RB transcriptional corepressor like 2;RBL2;Capra hircus (Goat);Unreviewed;heart development
+486;AKTIP;A0A452E6S7;A0A452E6S7_CAPHI;AKT interacting protein;AKTIP;Capra hircus (Goat);Unreviewed;heart development
+487;LOC102182337;A0A452E1H6;A0A452E1H6_CAPHI;Vesicle transport through interaction with t-SNARE;LOC102182337;Capra hircus (Goat);Unreviewed;heart development
+488;RPGRIP1L;A0A452EW26;A0A452EW26_CAPHI;RPGRIP1 like;RPGRIP1L;Capra hircus (Goat);Unreviewed;heart development
+489;FTO;A0A0M3ULS7;A0A0M3ULS7_CAPHI;Alpha-ketoglutarate-dependent dioxygenase FTO;FTO;Capra hircus (Goat);Unreviewed;heart development
+490;TRNAG-UCC;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+491;LOC102183093;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+492;IRX3;A0A452EMX9;A0A452EMX9_CAPHI;Iroquois homeobox 3;IRX3;Capra hircus (Goat);Unreviewed;heart development
+493;LOC102183995;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+494;LOC102184183;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+495;IRX5;A0A452EB64;A0A452EB64_CAPHI;Iroquois homeobox 5;IRX5;Capra hircus (Goat);Unreviewed;heart development
+496;LOC102173770;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+497;LOC108638060;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+498;CDH5;A0A452EQV9;A0A452EQV9_CAPHI;Cadherin-5;CDH5;Capra hircus (Goat);Unreviewed;heart development
+499;BEAN1;A0A452DN10;A0A452DN10_CAPHI;Brain expressed associated with NEDD4 1;BEAN1;Capra hircus (Goat);Unreviewed;heart development
+500;LOC102173495;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+501;TK2;A0A452G1C2;A0A452G1C2_CAPHI;Thymidine kinase 2;TK2;Capra hircus (Goat);Unreviewed;heart development
+502;LOC102173772;NaN;NaN;NaN;NaN;NaN;NaN;NaN
+503;CMTM2;A0A452G158;A0A452G158_CAPHI;CKLF like MARVEL transmembrane domain containing 2;CMTM2;Capra hircus (Goat);Unreviewed;heart development
+504;CMTM3;A0A452F9B4;A0A452F9B4_CAPHI;CKLF like MARVEL transmembrane domain containing 3;CMTM3;Capra hircus (Goat);Unreviewed;heart development
+505;CMTM4;A0A452FKT2;A0A452FKT2_CAPHI;CKLF like MARVEL transmembrane domain containing 4;CMTM4;Capra hircus (Goat);Unreviewed;heart development
+506;DYNC1LI2;A0A452ELW2;A0A452ELW2_CAPHI;Dynein light intermediate chain;DYNC1LI2;Capra hircus (Goat);Unreviewed;heart development
+507;TERB1;A0A452G5T9;A0A452G5T9_CAPHI;Telomere repeat binding bouquet formation protein ;TERB1;Capra hircus (Goat);Unreviewed;heart development
+508;NAE1;A0A452DZC9;A0A452DZC9_CAPHI;NEDD8-activating enzyme E1 regulatory subunit;NAE1;Capra hircus (Goat);Unreviewed;heart development
